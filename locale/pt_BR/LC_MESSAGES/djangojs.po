@@ -1,0 +1,200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-22 06:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: static/js/frontpage.js:265 static/js/frontpage.js.py:620
+msgid "No Casts on Map"
+msgstr ""
+
+#: static/js/frontpage.js:458
+msgid "search for itineraries, casts or people"
+msgstr ""
+
+#: static/js/frontpage.js:708
+msgid ""
+"The Location you Selected is Outside Abruzzo! Select a Location in Abruzzo."
+msgstr ""
+
+#: static/js/frontpage.js:711
+msgid "Enter a Title for Your Cast"
+msgstr ""
+
+#: static/js/frontpage.js:723
+msgid "Click the Map to Select a Location for Your Cast"
+msgstr ""
+
+#: static/js/frontpage.js:835
+msgid "Invalid file type!"
+msgstr ""
+
+#: static/js/frontpage.js:848
+msgid "Uploading: "
+msgstr ""
+
+#: static/js/frontpage.js:855
+msgid "Done!"
+msgstr ""
+
+#: static/js/frontpage.js:865
+msgid "File too large."
+msgstr ""
+
+#: static/js/frontpage_views.js:36
+msgid "Casts On Map"
+msgstr ""
+
+#: static/js/frontpage_views.js:37
+msgid "All Casts"
+msgstr ""
+
+#: static/js/frontpage_views.js:90
+msgid "Casts On "
+msgstr ""
+
+#: static/js/frontpage_views.js:153
+msgid "flagged"
+msgstr ""
+
+#: static/js/frontpage_views.js:209
+msgid "Are you sure you want to flag this cast as inappropriate ?"
+msgstr ""
+
+#: static/js/frontpage_views.js:374
+msgid "Choose a New Location for This Cast by Clicking the Map"
+msgstr ""
+
+#: static/js/frontpage_views.js:376
+msgid "Cancel"
+msgstr ""
+
+#: static/js/frontpage_views.js:377
+msgid "Save New Location"
+msgstr ""
+
+#: static/js/frontpage_views.js:766
+msgid "Casts Created by"
+msgstr ""
+
+#: static/js/frontpage_views.js:767
+msgid "Created Casts"
+msgstr ""
+
+#: static/js/frontpage_views.js:771
+msgid "Casts Favorited by"
+msgstr ""
+
+#: static/js/frontpage_views.js:772
+msgid "Favorited Casts"
+msgstr ""
+
+#: static/js/prettyDate.js:22
+msgid " minutes ago"
+msgstr ""
+
+#: static/js/prettyDate.js:27
+msgid " weeks ago"
+msgstr ""
+
+#: static/js/templates/castAddForm.js.html:5
+msgid "Click The Map To Set Your Cast's Location"
+msgstr ""
+
+#: static/js/templates/castAddForm.js.html:6
+msgid "Map Controls on the Left Reposition the Map"
+msgstr ""
+
+#: static/js/templates/castAddForm.js.html:9
+msgid "Select a Location for Your Cast by Clicking the Map."
+msgstr ""
+
+#: static/js/templates/castAddForm.js.html:12
+msgid "Name Your Cast"
+msgstr ""
+
+#: static/js/templates/castAddForm.js.html:14
+msgid "Brief Description"
+msgstr ""
+
+#: static/js/templates/castAddForm.js.html:16
+msgid "Tags"
+msgstr ""
+
+#: static/js/templates/castAddForm.js.html:18
+msgid "comma-seperated list"
+msgstr ""
+
+#: static/js/templates/castAddForm.js.html:20
+msgid "Up Next: Add Photos and Videos"
+msgstr ""
+
+#: static/js/templates/castClusterPopup.js.html:8
+msgid "more casts"
+msgstr ""
+
+#: static/js/templates/castHeaderList.js.html:2
+msgid "Casts"
+msgstr ""
+
+#: static/js/templates/castPopup.js.html:3
+msgid "Open"
+msgstr ""
+
+#: static/js/templates/castPopup.js.html:6
+msgid "Official Cast"
+msgstr ""
+
+#: static/js/templates/eventOpen.js.html:6
+msgid "until"
+msgstr ""
+
+#: static/js/templates/itinHeaderList.js.html:13
+msgid "casts"
+msgstr ""
+
+#: static/js/templates/mapItinInfo.js.html:9
+msgid "You Are Viewing"
+msgstr ""
+
+#: static/js/templates/searchResults.js.html:1
+msgid "Results"
+msgstr ""
+
+#: templates/admin/map_admin.django.js:31
+msgid "Move Map"
+msgstr ""
+
+#: templates/admin/map_admin.django.js:40
+msgid "Create New Path"
+msgstr ""
+
+#: templates/admin/map_admin.django.js:49
+msgid "Set Location"
+msgstr ""
+
+#: templates/admin/map_admin.django.js:58
+msgid "Edit Existing Points"
+msgstr ""
+
+#: templates/admin/map_admin.django.js:96
+msgid "Title:"
+msgstr ""
+
+#: templates/admin/map_admin.django.js:97
+msgid "Description:"
+msgstr ""

@@ -1,0 +1,7 @@
+{% load i18n %}
+
+{
+    "title" : "{% trans "Start Exploring" %}",
+    "body" : "{% trans "Locast Tourism uses geo-located casts to organize places and experiences. Select an itinerary to follow a theme, or explore what's nearby. Visit the Locast Tourism website to share your own experiences!" %}"
+}
+

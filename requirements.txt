@@ -1,0 +1,4 @@
+South==0.7.3
+django-modeltranslation==0.3.2
+sorl-thumbnail==11.05.2
+locast-core==0.1

@@ -1,0 +1,451 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-22 06:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: templates/404.html:5
+msgid "404 Page Not Found"
+msgstr ""
+
+#: templates/404.html:8
+msgid "Go to the Locast Tourism Main Map"
+msgstr ""
+
+#: templates/500.html:3
+msgid "500 something has gone wrong "
+msgstr ""
+
+#: templates/base.django.html:31
+msgid "Login to Your Account"
+msgstr ""
+
+#: templates/base.django.html:33 templates/registration/login.html:13
+#: travels/forms.py:80
+msgid "Email"
+msgstr ""
+
+#: templates/base.django.html:40 templates/registration/login.html:27
+msgid "Register</a> a new account if you don't have one"
+msgstr ""
+
+#: templates/base.django.html:59
+msgid "about"
+msgstr ""
+
+#: templates/base.django.html:60
+msgid "credits"
+msgstr ""
+
+#: templates/base.django.html:61 templates/base.django.html.py:84
+msgid "disclaimer"
+msgstr ""
+
+#: templates/base.django.html:62
+msgid "mobile apps"
+msgstr ""
+
+#: templates/base.django.html:65
+msgid "MIT Mobile Experience Lab"
+msgstr ""
+
+#: templates/base.django.html:72
+msgid "The MIT Mobile Experience Lab"
+msgstr ""
+
+#: templates/base.django.html:74 templates/base.django.html.py:108
+msgid ""
+"The MIT Mobile Experience Lab seeks to radically reinvent and creatively "
+"design connections between people, information and physical places. Using "
+"cutting-edge information and mobile technology the lab seeks to improve "
+"people's lives through the careful design of meaningful experiences."
+msgstr ""
+
+#: templates/base.django.html:78 templates/base.django.html.py:103
+msgid "Mobile Applications"
+msgstr ""
+
+#: templates/base.django.html:79 templates/base.django.html.py:104
+msgid "Download Android App"
+msgstr ""
+
+#: templates/base.django.html:80 templates/base.django.html.py:105
+msgid "Application for iOS devices coming soon!"
+msgstr ""
+
+#: templates/base.django.html:89
+msgid "Welcome to Locast Tourism!"
+msgstr ""
+
+#: templates/base.django.html:90
+msgid "A collaborative travel guide"
+msgstr ""
+
+#: templates/base.django.html:92
+msgid "Help Build this Guide"
+msgstr ""
+
+#: templates/base.django.html:93
+msgid ""
+"Add your own casts to itineraries and share your experiences and knowledge!"
+msgstr ""
+
+#: templates/base.django.html:94
+msgid "Register an Account"
+msgstr ""
+
+#: templates/base.django.html:94
+msgid " or Sign in with Facebook"
+msgstr ""
+
+#: templates/base.django.html:95
+msgid "How it Works"
+msgstr ""
+
+#: templates/base.django.html:97
+msgid "Explore Itineraries: suggested trips through the region."
+msgstr ""
+
+#: templates/base.django.html:98
+msgid ""
+"View Official Casts: each itinerary is seeded with geo-located collections "
+"of Photos, Videos and Text called Casts showcasing specific places"
+msgstr ""
+
+#: templates/base.django.html:100
+msgid ""
+"Build a collection of your favorite casts to share with your friends on "
+"facebook. Get apps for Android and iOS devices to use when you travel. "
+msgstr ""
+
+#: templates/base.django.html:101
+msgid "Find Events: festivals, exhibitions, concerts, etc."
+msgstr ""
+
+#: templates/base.django.html:107
+msgid "About the MIT Mobile Experience Lab"
+msgstr ""
+
+#: templates/frontpage.django.html:14
+msgid "Login / Register"
+msgstr ""
+
+#: templates/frontpage.django.html:32
+msgid "logged in as "
+msgstr ""
+
+#: templates/frontpage.django.html:59 templates/frontpage.django.html:108
+#: travels/models.py:101
+msgid "itineraries"
+msgstr ""
+
+#: templates/frontpage.django.html:69 templates/frontpage.django.html:105
+msgid "official casts"
+msgstr ""
+
+#: templates/frontpage.django.html:79 templates/frontpage.django.html:106
+msgid "community casts"
+msgstr ""
+
+#: templates/frontpage.django.html:89 templates/frontpage.django.html:107
+msgid "events"
+msgstr ""
+
+#: templates/frontpage.django.html:98
+msgid "You Must Login"
+msgstr ""
+
+#: templates/frontpage.django.html:101
+msgid "You Are Viewing"
+msgstr ""
+
+#: templates/frontpage.django.html:102
+msgid "All Casts"
+msgstr ""
+
+#: templates/frontpage.django.html:104
+msgid " and Hiding"
+msgstr ""
+
+#: templates/frontpage.django.html:111
+msgid "Add Cast"
+msgstr ""
+
+#: templates/frontpage.django.html:111
+msgid " to Itinerary"
+msgstr ""
+
+#: templates/frontpage.django.html:116
+msgid "Top Tags"
+msgstr ""
+
+#: templates/frontpage.django.html:134
+msgid "Casts on Map"
+msgstr ""
+
+#: templates/frontpage.django.html:136
+msgid "Most Recent"
+msgstr ""
+
+#: templates/frontpage.django.html:137
+msgid "Most Popular"
+msgstr ""
+
+#: templates/frontpage.django.html:143
+msgid "No Casts On Map"
+msgstr ""
+
+#: templates/frontpage.django.html:150
+msgid "Reset"
+msgstr ""
+
+#: templates/frontpage.django.html:165
+msgid "Loading"
+msgstr ""
+
+#: templates/root.django.html:9
+msgid ""
+"A collaborative media travel guide combining high-quality, professional "
+"content with tourists' own experiences and locals' knowledge"
+msgstr ""
+
+#: templates/admin/map_admin.django.html:47
+msgid "Recenter Map"
+msgstr ""
+
+#: templates/admin/map_admin.django.html:48
+msgid "Reset Map"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:14
+msgid ""
+"Your Cast is Waiting to be Approved by a Moderator and is Not Visible to the "
+"Public"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:20
+msgid "Will Be Deleted! This Cannot be Undone!"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:21
+#: templates/ajax/cast_frontpage.django.html:243
+msgid "Cancel"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:21
+#: templates/ajax/cast_frontpage.django.html:243
+msgid "Delete"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:27
+msgid "featured"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:30
+msgid "promotional"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:34
+msgid "Delete Cast"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:35
+msgid "Change Cast Location"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:39
+msgid "Edit Title"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:43
+msgid "Edit Cast Title"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:45
+#: templates/ajax/cast_frontpage.django.html:182
+msgid "update"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:52
+msgid "favorite"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:60
+msgid "flagged"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:62
+msgid "flag"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:85
+msgid "of"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:89
+msgid "+ add media"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:100 travels/models.py:308
+msgid "video"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:109
+msgid "Video is Processing"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:121
+msgid "linked video"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:135 travels/models.py:327
+msgid "photo"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:144
+msgid "Comments"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:161
+#: templates/ajax/cast_frontpage.django.html:165
+msgid "Add Tags"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:167
+msgid "seperate tags with a comma"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:175
+#: templates/ajax/cast_frontpage.django.html:180
+msgid "Edit Description"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:194
+msgid "Add Media to Cast"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:198
+msgid "+ Add A Photo"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:204
+#: templates/ajax/cast_frontpage.django.html:221
+msgid "Title"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:206
+#: templates/ajax/cast_frontpage.django.html:223
+msgid "Description"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:215
+msgid "+ Add A Video"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:232
+msgid "Link To A Video"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:234
+msgid ""
+"enter link to a <a href=\"http://youtube.com\" target=\"new\">YouTube</a> or "
+"<a href=\"http://vimeo.com\" target=\"new\" >Vimeo</a> video"
+msgstr ""
+
+#: templates/ajax/cast_frontpage.django.html:242
+msgid "This Media Will Be Deleted"
+msgstr ""
+
+#: templates/registration/login.html:7
+msgid "Your username and password didn't match. Please try again."
+msgstr ""
+
+#: templates/registration/register.django.html:6
+msgid "Register to Join The Locast Tourism Community"
+msgstr ""
+
+#: templates/registration/register.django.html:11
+msgid "REQUIRED"
+msgstr ""
+
+#: templates/registration/register.django.html:17
+msgid "OPTIONAL"
+msgstr ""
+
+#: travels/admin.py:36
+msgid "Tags"
+msgstr ""
+
+#: travels/forms.py:34
+msgid "Agree"
+msgstr ""
+
+#: travels/forms.py:35
+msgid "Do Not Agree"
+msgstr ""
+
+#: travels/forms.py:46
+msgid "Passwords did not match!"
+msgstr ""
+
+#: travels/forms.py:54
+msgid "email has already been registered!"
+msgstr ""
+
+#: travels/forms.py:82
+msgid "First Name"
+msgstr ""
+
+#: travels/forms.py:83
+msgid "Last Name"
+msgstr ""
+
+#: travels/forms.py:86
+msgid "Password"
+msgstr ""
+
+#: travels/forms.py:89
+msgid "Verify Password"
+msgstr ""
+
+#: travels/forms.py:91
+msgid "Short Bio"
+msgstr ""
+
+#: travels/forms.py:92
+msgid "Your Website"
+msgstr ""
+
+#: travels/forms.py:94
+msgid "Profile Picture"
+msgstr ""
+
+#: travels/models.py:100
+msgid "itinerary"
+msgstr ""
+
+#: travels/models.py:149
+msgid "event"
+msgstr ""
+
+#: travels/models.py:197
+msgid "cast"
+msgstr ""
+
+#: travels/models.py:341
+msgid "link"
+msgstr ""

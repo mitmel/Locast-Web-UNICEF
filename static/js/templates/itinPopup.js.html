@@ -1,0 +1,13 @@
+{{#body}}
+<div class="popup-content itinerary cleared">
+    <a class="{{#tooltip}}hide {{/tooltip}} locast-button" href="#!itinerary/{{id}}/">Open</a>
+    <a href="#!itinerary/{{id}}/"> <div class="image-frame">{{#thumbnail}}<img src="{{thumbnail}}" />{{/thumbnail}}</div></a>       
+    <p class="type" >gettext('Itinerary')</p>
+    <p class="stat cleared" ><span class="locast-icon"></span><span class="number">{{casts_count}}</span></p>
+    <p class="stat cleared" ><span class="locast-icon favorite"></span><span class="number">{{favorites}}</span></p>
+    <h4>
+        <a href="#!itinerary/{{id}}/"><span class="cast-title title">{{title}}</span></a><a href="#!user/{{#author}}{{id}}{{/author}}/" class="cast-author author">{{#author}}{{display_name}}{{/author}}</a>
+    </h4>
+</div>
+{{/body}}
+

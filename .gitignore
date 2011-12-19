@@ -1,0 +1,7 @@
+*.pyc
+*.mo
+*.swp
+status.txt
+static/content*
+static/user_images/
+static/cache/

@@ -1,0 +1,31 @@
+<a id="close-user_{{id}}" class="locast-icon close" href="#"></a>
+<div class="locast-open-user">
+    <div class="user-header">
+        <h3 class="user-info"><span id="name-user_{{id}}" class="name">{{display_name}}</span>
+            {{#hometown}}
+                <span class="location">{{hometown}}</span>
+            {{/hometown}}
+        </h3>
+    </div> 
+    <div class="user-details cleared">  
+        {{#user_image}}<div class="image-frame user-picture"><img src="{{user_image}}"/></div>{{/user_image}}
+        <div class="user-bio description scrolling">
+            <p>{{profile}}</p>
+        </div>
+        <ul class="user-links">
+            {{#personal_url}}
+                <li class="website"><a target="_blank" href="{{personal_url}}">{{personal_url}}</a></li>
+            {{/personal_url}}
+        </ul>    
+    </div> 
+    <div id="nav-user_{{id}}" class="user-nav" class="cleared">
+        <p class="locast-help">
+        gettext('Filter map to see Casts that')
+        {{display_name}}
+        gettext('has')
+        </p>
+        <a id="created-button-user_{{id}}" class="user-link locast-button selected" href="#">created</a>
+        <a id="favorited-button-user_{{id}}" class="user-link locast-button" href="#">favorited</a>
+    </div>  
+</div>
+
