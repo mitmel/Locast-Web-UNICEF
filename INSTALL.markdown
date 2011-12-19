@@ -10,7 +10,6 @@ to make Locast run.
  * Python 2.5 or greater
  * Django 1.3
  * ffmpeg
- * git
 
 1. install base system
 ----------------------
@@ -19,14 +18,14 @@ First, there are some common tools that need to be installed:
 
 Debian:
 
-    apt-get install ffmpeg git
+    apt-get install ffmpeg
 
 Then we need to install the geospatial database. We use Postgres + PostGIS, but
 any geospatial database should work:
 
 Debian:
 
-    apt-get install postgresql-8.4-postgis git
+    apt-get install postgresql-8.4-postgis
 
 Redhat:
 
@@ -55,39 +54,29 @@ If you need a specific version of Python, you can specify it using '-p' to virtu
     cd locast
     source bin/activate
 
+Place the git project directory inside the virtual environment
+
 3. install Locast Core
 ----------------------
 You can install the Locast core using pip:
 
-    pip install http://mel-tools.mit.edu/locast/locast_web_core.tar.gz
+    pip install https://github.com/mitmel/Locast-Web-Core/zipball/master
     
-4. Install Locast Tourism
+4. Install Locast 
 -------------------------
 Install support packages to support installation of all the python modules.
 
  * PIL is needed for all the thumbnailing.
- * Git is needed for installing packages from a git repository.
 
 On Debian, you can do:
 
-    apt-get install python-imaging git
-
-If you have curl:
-    curl http://mobile.mit.edu/p/lc/lct.tar.gz|tar -zxv
-
-Otherwise:
-    wget http://mobile.mit.edu/p/lc/lct.tar.gz
-    tar -xvf lct.tar.gz
+    apt-get install python-imaging 
 
 Activate the virtual environment:
 
     source bin/activate
 
-And go into the Locast Tourism directory:
-
-    cd Tourism/
-
-From there, install all of its dependencies:
+Go into the project directory, and from there, install all of the dependencies:
 
     pip install -r requirements.txt
 
@@ -130,7 +119,7 @@ Enter these SQL commands:
 
 Exit psql by pressing Ctrl-D.
 
-6. Configure Locast Tourism
+6. Configure Locast 
 ---------------------------
 
 Create a folder to place the local configuration files into:
